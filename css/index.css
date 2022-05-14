@@ -1,0 +1,112 @@
+.gris {
+    background-color: rgb(200, 206, 205);
+    width: 152rem;
+    height: 5rem;
+    display: flex;
+    flex-direction: row;
+}
+
+.negro {
+    background-color: rgb(51, 50, 64);
+    width: 152rem;
+    height: 4rem;
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+.imagen {
+    width: 3rem;
+}
+
+.rojo {
+    width: 6rem;
+}
+.caja {
+    display: flex;
+    flex-direction: column-reverse;
+    background-color: rgb(232, 228, 228);
+    height: 50rem;
+    width: 152rem;
+}
+
+.caja_1 {
+    height: 50rem;
+    width: 90rem;
+    background-color: rgb(200, 206, 205); 
+}
+.gris_claro {
+    background-color: rgb(232, 228, 228);
+    height: 90rem;
+    width: 62rem;
+}
+
+.gris_2 { 
+background-color: rgb(113, 111, 111);
+height: 2rem;
+width: 90rem;
+}
+
+.blanco {
+    background-color: white;
+    height: 30rem;
+    width: 90rem;
+    display: flex;
+    flex-direction: row;
+}
+
+.cuadrados_1, .cuadrados_2, .cuadrados_3 {
+    background-color: rgb(200, 206, 205);
+    height: 25rem;
+    width: 30rem;
+    margin: 2rem;
+}
+
+.blanco_1 {
+    background-color:white;
+    height: 30rem;
+    width: 90rem;
+    display: flex;
+    flex-direction: row;
+}
+
+.cuadrados_4, .cuadrados_5, .cuadrados_6 {
+    background-color: rgb(200, 206, 205);
+    height: 25rem;
+    width: 30rem;
+    margin: 2rem;
+}
+
+.claro {
+    background-color: rgb(232, 228, 228);
+    height: 60rem;
+    width: 152rem;
+}
+
+.final {
+    display: flex;
+    flex-direction: row; 
+}
+
+.cuadrados_7 {
+    background-color: rgb(200, 206, 205);
+    height: 25rem;
+    width: 30rem;
+    margin: 2rem;
+}
+.texto {
+    background-color: rgb(113, 111, 111);
+    height: 3rem;
+    width: 50rem;
+    margin: 2rem;
+}
+.texto_claro {
+    background-color: rgb(232, 228, 228);
+    height: 2rem;
+    width: 50rem;
+    margin: 2rem;
+}
+.texto_claro_2 {
+    background-color: rgb(232, 228, 228);
+    height: 2rem;
+    width: 30rem;
+}
